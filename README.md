@@ -3,7 +3,7 @@ MediaCodec Demo
 
 The simple demonstration of Android MediaExtractor and MediaCodec API
 based on the https://github.com/vecio/MediaCodecDemo repo
-with correct sync and MediaController
+with correct seek and MediaController
 
 
 
