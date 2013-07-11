@@ -1,7 +1,7 @@
 MediaCodec Demo
 ===============
 
-The simple demonstration of Android MediaExtractor and MediaCodec API.
+The simple demonstration of Android MediaExtractor and MediaCodec API by Mohse    ddd
 
 
 DecodeActivity
